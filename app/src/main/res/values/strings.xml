@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SendMensagge</string>
+    <string name="txvUser">Usuario:</string>
+    <string name="txvMessage">Mensage:</string>
+    <string name="btnOk">Enviar</string>
+    <string name="ediUserMessage"></string>
+    <string name="ediMessage"></string>
+</resources>
